@@ -1,0 +1,1 @@
+Trigger: a block of code that executes automatically when an event takes place on a specific table. A TRIGGER happens when an EVENT takes place. An EVENT takes place when schedule, more of a scheduled automator rather than a trigger. ☆ 
